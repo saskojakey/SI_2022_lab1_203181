@@ -1,5 +1,5 @@
-bread
-milk
-honey
-whiskey
-egg
+bread x 2
+milk x 3
+honey x 4
+whiskey x 5
+egg x 6
