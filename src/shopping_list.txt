@@ -3,3 +3,5 @@ milk x 333
 honey x 4
 whiskey x 5
 egg x 6555
+shesta stavka x 3
+
