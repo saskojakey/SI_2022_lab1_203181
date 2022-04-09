@@ -68,6 +68,7 @@ Date:   Sat Apr 9 18:12:58 2022 +0200
 
     Add 5 items to the shopping list
 
+git push --all
 
 
 
